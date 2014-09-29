@@ -10,4 +10,3 @@ This app will use 2 AJAX requests:
 * A get request which will retrieve all pins in the database
 * A post request which will add a new pin when the user clicks on the map
 
-<tt>rake doc:app</tt>.
