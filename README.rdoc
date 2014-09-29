@@ -1,28 +1,13 @@
-== README
+== Mapper
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A user will be able to:
 
-Things you may want to cover:
+* See all the pins that have been added
+* Add a new pin by clicking anywhere on the map
 
-* Ruby version
+This app will use 2 AJAX requests:
 
-* System dependencies
+* A get request which will retrieve all pins in the database
+* A post request which will add a new pin when the user clicks on the map
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
