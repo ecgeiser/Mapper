@@ -1,5 +1,26 @@
-html, body, #map-canvas {
+html, body {
 	height: 100%;
 	margin: 0;
 	padding: 0;
+}
+
+body {
+	background-color: #212121;
+}
+
+#map-canvas {
+	height: 80%;
+	width: 80%;
+	border: 2px solid #595959;
+	margin: 0 auto;
+	padding: 0;
+	position: relative;
+}
+
+h1 {
+	color: #595959;
+	line-height: 50px;
+	font-size: 50px;
+	text-align: center;
+	padding-top: 10px;
 }

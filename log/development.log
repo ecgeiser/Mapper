@@ -210,3 +210,516 @@ Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-29 17:23:07 
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-29 17:23:07 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-29 17:25:25 -0400
+Processing by PinsController#index as HTML
+  Rendered pins/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 351ms (Views: 349.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pins.css?body=1" for 127.0.0.1 at 2014-09-29 17:25:25 -0400
+
+
+Started GET "/assets/pins.js?body=1" for 127.0.0.1 at 2014-09-29 17:25:25 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-29 17:25:25 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-29 17:25:25 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-29 17:25:25 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-29 17:25:25 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-29 17:25:25 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-29 17:25:45 -0400
+Processing by PinsController#index as HTML
+  Rendered pins/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 913ms (Views: 911.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-29 17:25:46 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-29 17:25:46 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-29 17:25:46 -0400
+
+
+Started GET "/assets/pins.css?body=1" for 127.0.0.1 at 2014-09-29 17:25:46 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-29 17:25:46 -0400
+
+
+Started GET "/assets/pins.js?body=1" for 127.0.0.1 at 2014-09-29 17:25:46 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-29 17:25:46 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-29 17:26:49 -0400
+Processing by PinsController#index as HTML
+  Rendered pins/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 296ms (Views: 295.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-29 17:26:49 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-29 17:26:49 -0400
+
+
+Started GET "/assets/pins.css?body=1" for 127.0.0.1 at 2014-09-29 17:26:50 -0400
+
+
+Started GET "/assets/pins.js?body=1" for 127.0.0.1 at 2014-09-29 17:26:50 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-29 17:26:50 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-29 17:26:50 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-29 17:26:50 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-29 17:27:02 -0400
+Processing by PinsController#index as HTML
+  Rendered pins/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 184ms (Views: 183.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-29 17:27:03 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-29 17:27:03 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-29 17:27:03 -0400
+
+
+Started GET "/assets/pins.css?body=1" for 127.0.0.1 at 2014-09-29 17:27:03 -0400
+
+
+Started GET "/assets/pins.js?body=1" for 127.0.0.1 at 2014-09-29 17:27:03 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-29 17:27:03 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-29 17:27:03 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-29 17:28:07 -0400
+Processing by PinsController#index as HTML
+  Rendered pins/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 160ms (Views: 159.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pins.css?body=1" for 127.0.0.1 at 2014-09-29 17:28:07 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-29 17:28:07 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-29 17:28:07 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-29 17:28:07 -0400
+
+
+Started GET "/assets/pins.js?body=1" for 127.0.0.1 at 2014-09-29 17:28:07 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-29 17:28:07 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-29 17:28:07 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-29 17:29:12 -0400
+Processing by PinsController#index as HTML
+  Rendered pins/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 103ms (Views: 102.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pins.css?body=1" for 127.0.0.1 at 2014-09-29 17:29:12 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-29 17:29:12 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-29 17:29:12 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-29 17:29:12 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-29 17:29:12 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-29 17:29:12 -0400
+
+
+Started GET "/assets/pins.js?body=1" for 127.0.0.1 at 2014-09-29 17:29:12 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-29 17:29:30 -0400
+Processing by PinsController#index as HTML
+  Rendered pins/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 281ms (Views: 280.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pins.css?body=1" for 127.0.0.1 at 2014-09-29 17:29:31 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-29 17:29:31 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-29 17:29:31 -0400
+
+
+Started GET "/assets/pins.js?body=1" for 127.0.0.1 at 2014-09-29 17:29:31 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-29 17:29:31 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-29 17:29:31 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-29 17:29:31 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-29 17:29:40 -0400
+Processing by PinsController#index as HTML
+  Rendered pins/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 298ms (Views: 297.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pins.css?body=1" for 127.0.0.1 at 2014-09-29 17:29:41 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-29 17:29:41 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-29 17:29:41 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-29 17:29:41 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-29 17:29:41 -0400
+
+
+Started GET "/assets/pins.js?body=1" for 127.0.0.1 at 2014-09-29 17:29:41 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-29 17:29:41 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-29 17:30:58 -0400
+Processing by PinsController#index as HTML
+  Rendered pins/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 219ms (Views: 218.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-29 17:30:58 -0400
+
+
+Started GET "/assets/pins.css?body=1" for 127.0.0.1 at 2014-09-29 17:30:58 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-29 17:30:58 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-29 17:30:58 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-29 17:30:58 -0400
+
+
+Started GET "/assets/pins.js?body=1" for 127.0.0.1 at 2014-09-29 17:30:58 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-29 17:30:58 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-29 17:31:12 -0400
+Processing by PinsController#index as HTML
+  Rendered pins/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 387ms (Views: 351.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pins.css?body=1" for 127.0.0.1 at 2014-09-29 17:31:13 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-29 17:31:13 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-29 17:31:13 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-29 17:31:13 -0400
+
+
+Started GET "/assets/pins.js?body=1" for 127.0.0.1 at 2014-09-29 17:31:13 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-29 17:31:13 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-29 17:31:13 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-29 17:31:20 -0400
+Processing by PinsController#index as HTML
+  Rendered pins/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 60ms (Views: 58.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-29 17:31:20 -0400
+
+
+Started GET "/assets/pins.css?body=1" for 127.0.0.1 at 2014-09-29 17:31:20 -0400
+
+
+Started GET "/assets/pins.js?body=1" for 127.0.0.1 at 2014-09-29 17:31:20 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-29 17:31:20 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-29 17:31:20 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-29 17:31:20 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-29 17:31:20 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-29 17:34:45 -0400
+Processing by PinsController#index as HTML
+  Rendered pins/index.html.erb within layouts/application (67.1ms)
+Completed 200 OK in 348ms (Views: 346.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-29 17:34:46 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-29 17:34:46 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-29 17:34:46 -0400
+
+
+Started GET "/assets/pins.css?body=1" for 127.0.0.1 at 2014-09-29 17:34:46 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-29 17:34:46 -0400
+
+
+Started GET "/assets/pins.js?body=1" for 127.0.0.1 at 2014-09-29 17:34:46 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-29 17:34:46 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-29 17:35:11 -0400
+Processing by PinsController#index as HTML
+  Rendered pins/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 300ms (Views: 299.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pins.css?body=1" for 127.0.0.1 at 2014-09-29 17:35:12 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-29 17:35:12 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-29 17:35:12 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-29 17:35:12 -0400
+
+
+Started GET "/assets/pins.js?body=1" for 127.0.0.1 at 2014-09-29 17:35:12 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-29 17:35:12 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-29 17:35:12 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-29 17:35:31 -0400
+Processing by PinsController#index as HTML
+  Rendered pins/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 193ms (Views: 192.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-29 17:35:31 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-29 17:35:31 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-29 17:35:31 -0400
+
+
+Started GET "/assets/pins.js?body=1" for 127.0.0.1 at 2014-09-29 17:35:31 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-29 17:35:31 -0400
+
+
+Started GET "/assets/pins.css?body=1" for 127.0.0.1 at 2014-09-29 17:35:31 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-29 17:35:31 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-29 17:36:00 -0400
+Processing by PinsController#index as HTML
+  Rendered pins/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 144ms (Views: 143.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-29 17:36:01 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-29 17:36:01 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-29 17:36:01 -0400
+
+
+Started GET "/assets/pins.js?body=1" for 127.0.0.1 at 2014-09-29 17:36:01 -0400
+
+
+Started GET "/assets/pins.css?body=1" for 127.0.0.1 at 2014-09-29 17:36:01 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-29 17:36:01 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-29 17:36:01 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-29 17:36:10 -0400
+Processing by PinsController#index as HTML
+  Rendered pins/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 105ms (Views: 104.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pins.css?body=1" for 127.0.0.1 at 2014-09-29 17:36:10 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-29 17:36:10 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-29 17:36:10 -0400
+
+
+Started GET "/assets/pins.js?body=1" for 127.0.0.1 at 2014-09-29 17:36:10 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-29 17:36:10 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-29 17:36:10 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-29 17:36:10 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-29 17:36:19 -0400
+Processing by PinsController#index as HTML
+  Rendered pins/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 52ms (Views: 51.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pins.css?body=1" for 127.0.0.1 at 2014-09-29 17:36:19 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-29 17:36:19 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-29 17:36:19 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-29 17:36:19 -0400
+
+
+Started GET "/assets/pins.js?body=1" for 127.0.0.1 at 2014-09-29 17:36:19 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-29 17:36:19 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-29 17:36:19 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-29 17:36:33 -0400
+Processing by PinsController#index as HTML
+  Rendered pins/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 60ms (Views: 59.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-29 17:36:33 -0400
+
+
+Started GET "/assets/pins.css?body=1" for 127.0.0.1 at 2014-09-29 17:36:33 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-29 17:36:33 -0400
+
+
+Started GET "/assets/pins.js?body=1" for 127.0.0.1 at 2014-09-29 17:36:33 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-29 17:36:33 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-29 17:36:33 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-29 17:36:33 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-29 17:36:52 -0400
+Processing by PinsController#index as HTML
+  Rendered pins/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 50ms (Views: 49.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pins.css?body=1" for 127.0.0.1 at 2014-09-29 17:36:53 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-29 17:36:53 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-29 17:36:53 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-29 17:36:53 -0400
+
+
+Started GET "/assets/pins.js?body=1" for 127.0.0.1 at 2014-09-29 17:36:53 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-29 17:36:53 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-29 17:36:53 -0400
